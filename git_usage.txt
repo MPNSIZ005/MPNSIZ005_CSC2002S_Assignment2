@@ -1,0 +1,95 @@
+commit 210a0738469264388b9dfcaeee19953587f63809
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Mon Sep 6 12:33:12 2021 +0200
+
+    Create example_dict.txt
+
+commit 53ce90cecb01954233b4b8d858626a8caa81fdb2
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Mon Sep 6 12:29:24 2021 +0200
+
+    Update Score.java
+
+commit 7766a360388040da7332aa199feb2ebd471673f0
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Sun Sep 5 17:02:30 2021 +0200
+
+    Create makefile
+
+commit f4a09b456126f32dfcb3a6d5c62019b85a5faec1
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:41:47 2021 +0200
+
+    Update WordApp.java
+
+commit fb04553251f0a64b5c215210ed9a58a9cfd761c2
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:40:54 2021 +0200
+
+    Create ThreadEnd.java
+
+commit d1dc9ef05d11f1b670cae7ddeb6d847a11257d43
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:40:16 2021 +0200
+
+    Create ThreadReset.java
+
+commit a453ed353e095286e20df09ef68983802467c560
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:39:48 2021 +0200
+
+    Create ControlMatch.java
+
+commit b2fc0f9beda5ec7d12f37045a322222fadb10071
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:39:21 2021 +0200
+
+    Create ControlThread.java
+
+commit 170781ff34e8b5fc714845a74ef91520871f9c30
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:37:30 2021 +0200
+
+    Update WordRecord.java
+
+commit e2663962a53706b99f329e59c5e640a3e2a941b8
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:36:15 2021 +0200
+
+    Update WordPanel.java
+
+commit cce8a7f1fbbb08d08a0a4957c4ff50f1a149540f
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:34:18 2021 +0200
+
+    Update WordDictionary.java
+
+commit 0724179c9341de97ffa41cf4bf498500941e737f
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:32:54 2021 +0200
+
+    Update Score.java
+
+commit f100251b12385fcfa835651fe57287a1e2b28394
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:32:00 2021 +0200
+
+    Add files via upload
+
+commit 6853c05907ece4c87045f9df31c331c50bd195e8
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:31:37 2021 +0200
+
+    Create Score.java
+
+commit d8a2eb864a094eabd8f2b690cedaff36009b4d93
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:30:05 2021 +0200
+
+    Update and rename README.md to README.txt
+
+commit 17cb9698664b545d0e3c9048270b6fbd7105751f
+Author: Sizwe Mpungose <42890478+MPNSIZ005@users.noreply.github.com>
+Date:   Fri Sep 3 15:28:39 2021 +0200
+
+    Initial commit
